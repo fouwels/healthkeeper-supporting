@@ -1,0 +1,17 @@
+.SDP816-125Pa :1 ;Sensirion SDP816-125PA, Differential Pressure Sensor +125Pa 0.1  0.9 V Output, 4-Pin
+SDP816125Pa
+*STM IC
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=MH1 6=MH2 7=MH3 8=MH4 9=MH5 10=MH6 11=MH7 12=MH8
+*PLB 1="OCS" 2="VDD" 3="GND" 4="AOUT" 5="MH2" 6="MH3" 7="MH4" 8="MH5" 9="MH6" 10="MH7" 11="MH8" 12="MH9"
+*MXP 12
+*DFN SDP816-125Pa
+~!RS Part Number (1691851)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/1691851)
+~!Manufacturer_Name (Sensirion)
+~!Manufacturer_Part_Number (SDP816-125Pa)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/1691851)
+~!Height (10.5mm)
+~!3D_Model (SDP816-125Pa)
+SDP816-125Pa
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 

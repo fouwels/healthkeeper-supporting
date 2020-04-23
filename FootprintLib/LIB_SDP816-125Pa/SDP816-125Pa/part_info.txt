@@ -1,0 +1,9 @@
+Manufacturer=Sensirion
+PartNumber=SDP816-125Pa
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=12
+Version=1.1
+Released=2019-01-01 18:46:58
+Downloaded=2020-04-21 22:07:37
+3D=Y

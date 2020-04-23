@@ -1,0 +1,118 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "THN_15-2411WI"
+   (description "TRACOPOWER - THN 15-2411WI - DC/DC CONVERTER, 15W, 5V, 3A")
+   (family "XFR")
+   (package "THN15-2411WI")
+   (attribute "Datasheet Link" "http://uk.rs-online.com/web/p/products/0438424P")
+   (attribute "RS Part Number" "0438424P")
+   (attribute "RS Price/Stock" "http://uk.rs-online.com/web/p/products/0438424P")
+   (attribute "Manufacturer_Name" "Traco Power")
+   (attribute "Manufacturer_Part_Number" "THN 15-2411WI")
+   (gate
+    (symbol "THN_15-2411WI")
+    (pin "+VIN_(VCC)" 1 PS)
+    (pin "-VIN_(GND)" 2 PS)
+    (pin "+_VOUT" 3 PS)
+    (pin "TRIM" 4 PS)
+    (pin "-VOUT" 5 PS)
+    (pin "REMOTE_ON/OFF" 6 PS)
+   )
+  )
+  (symbol "THN_15-2411WI"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -300) (pt 200 -300) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "THN15-2411WI"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed true)
+      (pt 0 25.4)
+      (pt 25.4 25.4)
+      (pt 25.4 0)
+      (pt 0 0)
+      (pt 0 25.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.254)
+     (path
+      (closed false)
+      (pt 0 0)
+      (pt 0 25.4)
+      (pt 25.4 25.4)
+      (pt 25.4 0)
+      (pt 0 0))))
+   (layer TSLK
+    (graphic
+     (stroke 0.5)
+     (circle
+      (pt 17.04377 -1.022) (pt 17.4389 -1.022)
+     )
+    )
+   )
+   (leg 1 (pt 15.2 2.54) (padstack 0))
+   (leg 2 (pt 10.12 2.54) (padstack 0))
+   (leg 3 (pt 22.82 22.86) (padstack 0))
+   (leg 4 (pt 12.66 22.86) (padstack 0))
+   (leg 5 (pt 2.5 22.86) (padstack 0))
+   (leg 6 (pt 2.5 2.54) (padstack 0))
+   (padstack 0
+    (hole 1.2)
+    (plated true)
+    (pad (layer TCOP) (round 1.8))
+    (pad (layer INNER) (round 1.8))
+    (pad (layer BCOP) (round 1.8))
+   )
+   (model "THN_15-2411WI.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

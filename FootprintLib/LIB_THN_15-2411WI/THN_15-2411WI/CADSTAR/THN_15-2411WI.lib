@@ -1,0 +1,16 @@
+.THN_15-2411WI :1 ;TRACOPOWER - THN 15-2411WI - DC/DC CONVERTER, 15W, 5V, 3A
+THN15-2411WI
+*STM T
+*NGS
+*PLB 1="+VIN (VCC)" 2="-VIN (GND)" 3="+ VOUT" 4="TRIM" 5="-VOUT" 6="REMOTE ON/OFF"
+*MXP 6
+*DFN THN_15-2411WI
+~!RS Part Number (0438424P)
+~!Link RS Price/Stock (http://uk.rs-online.com/web/p/products/0438424P)
+~!Manufacturer_Name (Traco Power)
+~!Manufacturer_Part_Number (THN 15-2411WI)
+~!Link Datasheet (http://uk.rs-online.com/web/p/products/0438424P)
+~!Height (-)
+~!3D_Model (THN_15-2411WI)
+THN_15-2411WI
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

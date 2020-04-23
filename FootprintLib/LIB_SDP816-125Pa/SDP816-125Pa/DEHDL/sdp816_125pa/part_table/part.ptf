@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SDP816_125Pa'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Sensirion", "SDP816-125Pa" (!) = "", "SDP816125Pa", "Other", "1691851", "http://uk.rs-online.com/web/p/products/1691851", "Sensirion SDP816-125PA, Differential Pressure Sensor +125Pa 0.1  0.9 V Output, 4-Pin", "http://uk.rs-online.com/web/p/products/1691851", "10.5 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SDP816-125Pa
+D Sensirion SDP816-125PA, Differential Pressure Sensor +125Pa 0.1  0.9 V Output, 4-Pin
+K
+F http://uk.rs-online.com/web/p/products/1691851
+$ENDCMP
+#
+#End Doc Library

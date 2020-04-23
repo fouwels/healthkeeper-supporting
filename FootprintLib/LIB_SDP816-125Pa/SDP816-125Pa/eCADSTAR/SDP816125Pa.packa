@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SDP816-125Pa"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-01-01-18:46:58)
+    (mountForm default
+        (footprintRef "SDP816125Pa")
+        (spec "System")
+    )
+)

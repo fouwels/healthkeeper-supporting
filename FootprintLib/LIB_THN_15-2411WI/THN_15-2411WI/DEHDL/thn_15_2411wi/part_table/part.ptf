@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'THN_15_2411WI'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "RS_PART_NUMBER", "RS_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "Traco Power", "THN 15-2411WI" (!) = "", "THN15-2411WI", "Other", "0438424P", "http://uk.rs-online.com/web/p/products/0438424P", "TRACOPOWER - THN 15-2411WI - DC/DC CONVERTER, 15W, 5V, 3A", "http://uk.rs-online.com/web/p/products/0438424P"
+END_PART
+
+END.

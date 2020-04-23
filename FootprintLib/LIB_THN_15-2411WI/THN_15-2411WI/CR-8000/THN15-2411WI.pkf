@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "THN15-2411WI"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "THN15-2411WI")
+        (spec "default")
+    )
+)
