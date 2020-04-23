@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name SDP816-125Pa)(type KiCad)(uri ${KIPRJMOD}/../FootprintLib/LIB_SDP816-125Pa/SDP816-125Pa/KiCad)(options "")(descr ""))
   (lib (name THN_15-2411WI)(type KiCad)(uri ${KIPRJMOD}/../FootprintLib/LIB_THN_15-2411WI/THN_15-2411WI/KiCad)(options "")(descr ""))
+  (lib (name Raspberry_Pi4)(type KiCad)(uri ${KIPRJMOD}/../FootprintLib/RaspberryPI4-Addon)(options "")(descr ""))
 )
